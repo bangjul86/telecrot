@@ -16,4 +16,4 @@
 CMD*/
 
 User.setProperty("plan",message,"string");
-Bot.sendMessage("⚛️ *ACCOUNT ID:*"+ user.id +"\n-----------------status-----------------\n•• *Planned* <plan>\n•• *Status* Active!");
+Bot.sendMessage("⚛️ *ACCOUNT ID:*"+ user.id +"\n-----------------status-----------------\n•• *Planned* <plan>\n•• *Status* Active!\n•• *Period* 30 hari");

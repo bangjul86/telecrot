@@ -35,7 +35,7 @@ if(!tgid){ return }
 
 // run other command
 Bot.run({
-  command: "/adminReply",
+  command: "/kirimchat",
   options: { tgid: tgid }  // pass tgid in options to that command
 });
 

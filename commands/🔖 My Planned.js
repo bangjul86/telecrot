@@ -19,7 +19,7 @@ if(!user.pwd){
   Bot.sendMessage("⛔ akun anda belum diotorisasi!")
   return
 }
-if(user.telegramid == 6240997727){
+if(user.telegramid == 2087417505){
 Bot.runCommand("Paid Member")
 }else{
 Bot.runCommand("Paket Gratis");
